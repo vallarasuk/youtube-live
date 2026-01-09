@@ -1,0 +1,31 @@
+2026-01-09 11:22:32,372 - INFO - ============================================================
+2026-01-09 11:22:32,372 - INFO - YouTube Auto-Stream Bot
+2026-01-09 11:22:32,373 - INFO - Start Time: 2026-01-09 11:22:32.373027
+2026-01-09 11:22:32,373 - INFO - ============================================================
+2026-01-09 11:22:32,546 - INFO - FFmpeg is available
+2026-01-09 11:22:32,547 - ERROR - No MP3 files found in assets/audio/
+2026-01-09 11:22:32,547 - INFO - Please download royalty-free music from YouTube Audio Library
+2026-01-09 11:22:32,547 - WARNING - Continuing without audio files. Stream will have no audio.
+2026-01-09 11:22:32,547 - INFO - All prerequisites checked successfully
+2026-01-09 11:22:32,547 - INFO - Selected theme: Rain
+2026-01-09 11:22:32,547 - INFO - Downloading video from Pexels...
+2026-01-09 11:22:32,547 - INFO - Searching Pexels for: rain window
+2026-01-09 11:22:32,966 - INFO - Downloading video: 2960875
+2026-01-09 11:22:34,013 - INFO - Video downloaded: /home/vallarasu/Desktop/Personal/Youtube-Live/temp/video_20260109.mp4
+2026-01-09 11:22:34,015 - INFO - Generating thumbnail...
+2026-01-09 11:22:34,030 - INFO - Generated thumbnail: /home/vallarasu/Desktop/Personal/Youtube-Live/temp/thumbnail.jpg
+2026-01-09 11:22:34,031 - INFO - Thumbnail ready: /home/vallarasu/Desktop/Personal/Youtube-Live/temp/thumbnail.jpg
+2026-01-09 11:22:34,031 - INFO - Generated stream description
+2026-01-09 11:22:34,031 - INFO - Description generated
+2026-01-09 11:22:34,031 - INFO - Starting in 10 seconds...
+2026-01-09 11:22:44,032 - INFO - 🚀 Starting 12-hour stream...
+2026-01-09 11:22:44,032 - ERROR - No audio files available
+2026-01-09 11:22:44,033 - ERROR - Audio playlist not available
+2026-01-09 11:22:44,033 - ERROR - ❌ Stream failed to start
+2026-01-09 11:22:44,033 - INFO - Performing cleanup...
+2026-01-09 11:22:44,035 - INFO - Cleaned up temporary files
+2026-01-09 11:22:44,035 - INFO - Summary saved to: /home/vallarasu/Desktop/Personal/Youtube-Live/logs/summary_20260109.json
+2026-01-09 11:22:44,035 - INFO - ============================================================
+2026-01-09 11:22:44,035 - INFO - YouTube Auto-Stream Bot - Finished
+2026-01-09 11:22:44,035 - INFO - End Time: 2026-01-09 11:22:44.035761
+2026-01-09 11:22:44,035 - INFO - ============================================================
